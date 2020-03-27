@@ -1,0 +1,5 @@
+https://coronavirus-tracker-api.herokuapp.com/v2/location/{id}
+
+India id 131
+
+Haversine input argument object properties should have a same word as latitude and longitude, otherwise returns NaN 
