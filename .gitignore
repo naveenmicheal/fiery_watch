@@ -2,3 +2,5 @@ node_modules/
 .env
 data_set.json
 test.js
+notes.txt
+ui-pwa/node_modules/
