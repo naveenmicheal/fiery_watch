@@ -1,4 +1,4 @@
-<template>
+<template> 
 	<div>
 		<div id="map-wrap" style="height: 100vh">
  		<client-only>
@@ -29,13 +29,10 @@
 			*/
 
 		return{
-			mapcenter :{
-				center:[],
-			},
+			mapcenter :{},
+
 			marker :{
-				color : "red",
-				radius :4,
-				coords : []
+				
 			}
 			
 		}	

@@ -15,6 +15,6 @@ export default {
     navbar,
     Gmap
   }
-}
+};
 </script>
 
